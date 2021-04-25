@@ -1,7 +1,6 @@
 #include "blockchain.h"
 
 /**
- *My function
  * blockchain_create - create a block chain structure
  * Return: a new blockchain structure
  */
